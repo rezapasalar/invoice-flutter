@@ -1,16 +1,22 @@
-# invoice
+# A project for Week Company designed with Flutter.
+- Coding by Flutter 3.
+- Template design with Dark Mode.
+- Using sqlite in project.
+- Database backup and restore.
+- Multi-Language
+- Passcode implementation similar to the telegram program (Passcode - Fingerprint).
+- Create a PDF of the invoice.
+- Share PDF file
+# Installation
+### Download APK 
+Download the database file from the link below and import it in mysql.
+### [Invoice-v1.0.0.apk](./APK)
+### Installing packages
+```
+flutter pub get
+```
+### Run the project
+```
+flutter run
+```
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
