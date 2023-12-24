@@ -9,7 +9,7 @@
 - Share PDF file.
 # Installation
 ### Download APK 
-Download the database file from the link below and import it in mysql.
+Download and install the APK file, you can create fake data from the menu section.
 ### [Invoice-v1.0.0.apk](./APK)
 ### Installing packages
 ```
