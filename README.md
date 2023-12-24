@@ -9,7 +9,7 @@
 - Share PDF file.
 # Installation
 ### Download APK 
-Download and install the APK file, you can create fake data from the menu section.
+After clone the project, get the apk file in the APK folder and install it on your Android phone, and after installation, create fake data from the menu section.
 ### [Invoice-v1.0.0.apk](./APK)
 ### Installing packages
 ```
