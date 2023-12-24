@@ -6,7 +6,7 @@
 - Multi-Language
 - Passcode implementation similar to the telegram program (Passcode - Fingerprint).
 - Create a PDF of the invoice.
-- Share PDF file
+- Share PDF file.
 # Installation
 ### Download APK 
 Download the database file from the link below and import it in mysql.
